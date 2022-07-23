@@ -1,0 +1,19 @@
+.nota-aprobada {
+    color: #55bc75;
+}
+
+.nota-desaprobada {
+    color: #e36f6f;
+}
+
+.negrita {
+    font-weight: bold;
+}
+
+.sexo-masculino {
+    color: #56BAEC;
+}
+
+.sexo-femenino {
+    color: #F35DA4;
+}
